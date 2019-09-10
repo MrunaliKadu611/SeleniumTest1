@@ -24,7 +24,7 @@ public class FindingCoordinates {
         pwd.sendKeys("SyM!@pE5#");
         loginButton.click();
 
-
+        System.out.println("Hi");
 
 
 //        Point p = driver.findElement(By.xpath("")).getLocation();
